@@ -65,11 +65,9 @@ Feel free to fork and experiment with these datasets.
 ### 👨‍💻 Author
 
 **Shreyas Narsale**
-  Machine Learning
+  
 
----
 
-Would you like me to add:
 
 * ✅ Example model training code (e.g., Logistic Regression or Random Forest)
 * ✅ or keep it as a dataset collection README only?
