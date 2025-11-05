@@ -44,16 +44,6 @@ df.head()
 
 ---
 
-### 📊 Example Visualization
-
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-sns.heatmap(df.corr(numeric_only=True), annot=True)
-plt.show()
-```
-
 
 ### 📘 License
 
